@@ -1,5 +1,5 @@
 # Girlfriendgpt1
-there is a bag . flask app crahing after first voice message recieved from elven labs.
+there is a bugg . flask app crahing after first voice message recieved from elven labs.
 
 
     > Finished chain.
